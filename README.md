@@ -67,3 +67,6 @@ The purpose of the project is to demonstrate embedded Rust programming concepts 
 
 ## Author
 Created independently as an embedded systems project using Rust and ESP32.
+
+
+This was hard to complete, but I pushed through
